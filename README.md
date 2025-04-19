@@ -72,7 +72,6 @@ y_prednew=predict(theta,xnew)
 print("Predicted Result:",y_prednew)
 ```
 ## Output:
-![logistic regression using gradient descent](sam.png)
 ## ACCURACY,ACTUAL AND PREDICTED VALUES:
 ![Screenshot 2025-04-19 134554](https://github.com/user-attachments/assets/d38382d7-8f3f-459c-a8d9-d0a43e993652)
 ## PREDICTED RESULT:
